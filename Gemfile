@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "rails", "~> 8.0.2"
 
+gem "devise", "~> 4.9"
 gem "importmap-rails"
 gem "jbuilder"
 gem "propshaft"
